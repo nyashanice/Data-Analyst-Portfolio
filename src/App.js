@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Home from "./pages/Home";
-import AboutMe from "./pages/AboutMe";
+import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 
 export default function App() {
@@ -12,7 +12,7 @@ export default function App() {
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<AboutMe />} />
+          <Route path="/about" element={<About />} />
           <Route path="/portfolio" element={<Portfolio />} />
         </Routes>
       </div>
