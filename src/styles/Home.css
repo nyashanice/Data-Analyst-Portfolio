@@ -1,5 +1,5 @@
 .home-bg {
-    background-image: linear-gradient(to right, #FF82CE, white);
+    background-image: url('/public/images/clouds.jpg');
     height: 100vh;
 }
 
