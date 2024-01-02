@@ -7,9 +7,9 @@ import "../styles/Nav.css";
 
 function Navigation() {
   return (
-    <Navbar expand="lg" className="nav-bg">
+    <Navbar expand="lg">
       <Container>
-        <Navbar.Brand className="nav-name-text">Nya Tyus</Navbar.Brand>
+        <Navbar.Brand className="nav-name-text">NYA TYUS</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto nav-text">

@@ -5,10 +5,12 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
+import Header from "./components/Header";
 
 export default function App() {
   return (
     <Router>
+      <Header/>
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
