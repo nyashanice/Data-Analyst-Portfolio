@@ -6,11 +6,12 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
     <Router>
-      <Header/>
+      <Header />
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -18,6 +19,7 @@ export default function App() {
           <Route path="/portfolio" element={<Portfolio />} />
         </Routes>
       </div>
+      <Footer />
     </Router>
   );
 }
