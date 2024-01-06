@@ -14,19 +14,22 @@ export default function About() {
           me a dynamic candidate for data analyst roles.
         </div>
         <div className="p-2">
-          Armed with a B.S. in Biology from Clayton State University, I've
-          ventured into the realm of data analysis through an intensive Full
-          Stack Web Development bootcamp at the Georgia Institute of Technology.
-          My analytical skills, honed in the biological sciences, have
-          seamlessly translated into the world of data, where I've conquered
-          statistical analysis using tools such as Excel and Google Sheets
-          functions.
+          Armed with a <span className="span-bg">B.S. in Biology</span> from
+          Clayton State University, I've ventured into the realm of data
+          analysis through an intensive{" "}
+          <span className="span-bg">Full Stack Web Development</span> bootcamp
+          at the Georgia Institute of Technology. My analytical skills, honed in
+          the biological sciences, have seamlessly translated into the world of
+          data, where I've conquered statistical analysis using tools such as{" "}
+          <span className="span-bg">Excel and Google Sheets functions.</span>
         </div>
         <div className="p-2">
-          My technical toolkit includes SQL, where I'm well-versed in joins and
-          other queries, as well as JavaScript and some Python. This proficiency
-          extends to extracting meaningful insights from complex datasets, a
-          skill crucial for any data analyst role.
+          My technical toolkit includes <span className="span-bg">SQL</span>,
+          where I'm well-versed in joins and other queries, as well as{" "}
+          <span className="span-bg">JavaScript</span> and some{" "}
+          <span className="span-bg">Python</span>. This proficiency extends to
+          extracting meaningful insights from complex datasets, a skill crucial
+          for any data analyst role.
         </div>
         <div className="p-2">
           The three-month bootcamp not only showcased my ability to swiftly
