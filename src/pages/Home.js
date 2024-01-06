@@ -20,10 +20,15 @@ export default function Home() {
           />
         </Col>
         <Col className="text-center align-self-center">
-          <div>Nya Tyus</div>
-          <div> Data Analyst </div>
-          <div>Biology, B.S.</div>
-          <div>Full Stack Web Development Bootcamp Graduate</div>
+          <div className="home-name">NYA TYUS</div>
+          <span className="home-title m-2 p-2">
+            {" "}
+            Data Analyst, Web Developer{" "}
+          </span>
+          <div className="home-txt m-2">Bachelor of Science in Biology</div>
+          <div className="home-txt">
+            Full Stack Web Development Bootcamp Graduate
+          </div>
         </Col>
       </Row>
     </Container>
