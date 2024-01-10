@@ -12,7 +12,7 @@ import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/Data-Analyst-Portfolio">
       <Header />
       <div>
         <Routes>
