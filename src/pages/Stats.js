@@ -45,27 +45,55 @@ export default function Stats() {
         <div className="mb-4">
           <h4>SKILLS SHOWN/DEVELOPED</h4>
           <div>
-            To create this project, I showcased multiple Google Sheets skills. I
-            used a <span className="highlight p-1">pivot table</span> to narrow
-            down the top 10 scorers during the season which are players that
-            averaged at least 25 and above per game. I used the{" "}
-            <span className="highlight p-1">SUMIFS</span> function to gather the
-            total turnovers, steals, blocks, and points per team. I used{" "}
-            <span className="highlight p-1">column charts</span> to showcase the
-            data visually. And lastly, I used{" "}
-            <span className="highlight p-1">VLOOKUP</span> to allow viewers to
-            compare the statistics for two different teams and see a performance
-            analysis.
+            The NBA Eastern Conference Stats Analysis project stands as a
+            testament to my analytical and development skills, particularly in
+            leveraging advanced Excel functionalities. Here's how this project
+            showcased a range of skills:
+            <ol>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">
+                  Analysis and Visualization:
+                </span>{" "}
+                Applied advanced Google Sheets functions, including VLOOKUP,
+                SUMIFS, and Pivot Tables, to derive insightful patterns and
+                trends from the dataset. Crafted interactive column charts to
+                visually represent player and team performance metrics, making
+                complex data easily comprehensible.
+              </li>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">Dashboard Creation:</span>{" "}
+                Designed intuitive and interactive dashboard to present key
+                findings, catering to both sports enthusiasts and data
+                aficionados. The dashboard showcased a seamless integration of
+                statistical insights with user-friendly visualizations.
+              </li>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">
+                  Google Sheets Proficiency:
+                </span>{" "}
+                Leveraged advanced Google Sheets functionalities such as VLOOKUP
+                for data lookup, SUMIFS for conditional summing, and Pivot
+                Tables for comprehensive data summarization, highlighting a
+                nuanced understanding of spreadsheet analysis.
+              </li>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">Communication Skills:</span>{" "}
+                Crafted comprehensive reports and presentations to effectively
+                communicate complex statistical analyses, ensuring that
+                technical information was accessible to a diverse audience.
+              </li>
+            </ol>
           </div>
         </div>
         <div>
           <h4>USAGE</h4>
           <div>
-            To view the raw data as well as access the comparative performance
-            analysis, use the "Dataset" link above. This link contains various
-            tabs that show different charts and team or individual data. To view
-            the presentation with presenter notes that describe my findings, use
-            the "Presentation with presenter notes" link above.
+            To explore the unprocessed data and delve into a comprehensive
+            performance analysis, simply navigate to the "Dataset" link above.
+            Within this link, you'll find multiple tabs showcasing diverse
+            charts and team or individual data. For a detailed walkthrough of my
+            discoveries, including presenter notes, access the "Presentation
+            with Presenter Notes" link provided.
           </div>
         </div>
       </div>
