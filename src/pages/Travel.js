@@ -30,6 +30,9 @@ export default function Travel() {
         <div className="mb-4">
           <h4>SKILLS SHOWN/DEVELOPED</h4>
           <div>
+            In developing the Travel Expense Tracker, I honed and showcased a
+            diverse set of skills, solidifying my capabilities as a versatile
+            analyst/developer. Here are some key skills exemplified by this project:
             <ol>
               <li className="mb-3 mt-3">
                 <span className="highlight p-1">Database Management:</span>{" "}
@@ -49,7 +52,7 @@ export default function Travel() {
                 <span className="highlight p-1">
                   Command-Line Interface (CLI) Development:
                 </span>{" "}
-                Built a user-friendly CLI using Inquirer.js, demonstrating the
+                Built a user-friendly CLI using Inquirer, demonstrating the
                 ability to create effective command-line interfaces for
                 streamlined user interactions.
               </li>
