@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Data-Analyst-Portfolio/static/css/main.58e795c7.css",
-    "main.js": "/Data-Analyst-Portfolio/static/js/main.21acf422.js",
+    "main.js": "/Data-Analyst-Portfolio/static/js/main.a36b0fe4.js",
     "static/js/787.5b5fd353.chunk.js": "/Data-Analyst-Portfolio/static/js/787.5b5fd353.chunk.js",
     "static/media/clouds.jpg": "/Data-Analyst-Portfolio/static/media/clouds.92c9ce5b9fc536dab50b.jpg",
     "index.html": "/Data-Analyst-Portfolio/index.html",
     "main.58e795c7.css.map": "/Data-Analyst-Portfolio/static/css/main.58e795c7.css.map",
-    "main.21acf422.js.map": "/Data-Analyst-Portfolio/static/js/main.21acf422.js.map",
+    "main.a36b0fe4.js.map": "/Data-Analyst-Portfolio/static/js/main.a36b0fe4.js.map",
     "787.5b5fd353.chunk.js.map": "/Data-Analyst-Portfolio/static/js/787.5b5fd353.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58e795c7.css",
-    "static/js/main.21acf422.js"
+    "static/js/main.a36b0fe4.js"
   ]
 }
