@@ -38,10 +38,12 @@ export default function Portfolio() {
             </div>
             <div>This project was created using MySQL and Python.</div>
           </Card.Text>
+          <Link to="/Travel-Expense-Tracker">
           <Button variant="light">Bon voyage!</Button>
+          </Link>
         </Card.Body>
       </Card>
-      <Card>
+      {/* <Card>
         <Card.Img variant="top" src="holder.js/100px160" />
         <Card.Body>
           <Card.Title>Card title</Card.Title>
@@ -54,7 +56,7 @@ export default function Portfolio() {
         <Card.Footer>
           <small className="text-muted">Last updated 3 mins ago</small>
         </Card.Footer>
-      </Card>
+      </Card> */}
     </CardGroup>
   );
 }

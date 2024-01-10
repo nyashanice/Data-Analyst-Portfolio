@@ -6,6 +6,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Stats from "./pages/Stats";
+import Travel from "./pages/Travel";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -19,6 +20,7 @@ export default function App() {
           <Route path="/about" element={<About />} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/NBA-Stats" element={<Stats />} />
+          <Route path="/Travel-Expense-Tracker" element={<Travel />} />
         </Routes>
       </div>
       <Footer />
