@@ -15,7 +15,7 @@ export default function Home() {
         <Col className="">
           <img
             className="home-img mx-auto d-block"
-            src="/images/headshot2.jpeg"
+            src="../Data-Analyst-Portfolio/images/headshot2.jpeg"
             alt=""
           />
         </Col>

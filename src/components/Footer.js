@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="">
         <Link to="mailto:nyastyus@gmail.com">
           <img
-            src="../images/email.png"
+            src="../Data-Analyst-Portfolio/images/email.png"
             alt=""
             className="footer-logo m-2"
           />
@@ -20,7 +20,7 @@ export default function Footer() {
           rel="noopener noreferrer"
         >
           <img
-            src="../images/linkedin.png"
+            src="../Data-Analyst-Portfolio/images/linkedin.png"
             alt="LinkedIn logo"
             className="footer-logo m-2"
           />
@@ -31,7 +31,7 @@ export default function Footer() {
           rel="noopener noreferrer"
         >
           <img
-            src="../images/github.png"
+            src="../Data-Analyst-Portfolio/images/github.png"
             alt="GitHub logo"
             className="footer-logo m-2"
           />

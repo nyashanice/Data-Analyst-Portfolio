@@ -8,7 +8,10 @@ export default function Portfolio() {
   return (
     <CardGroup>
       <Card>
-        <Card.Img variant="top" src="/images/basketball.jpg" />
+        <Card.Img
+          variant="top"
+          src="../Data-Analyst-Portfolio/images/basketball.jpg"
+        />
         <Card.Body>
           <Card.Title>NBA Eastern Conference Stats</Card.Title>
           <Card.Text>
@@ -27,7 +30,10 @@ export default function Portfolio() {
         </Card.Body>
       </Card>
       <Card>
-        <Card.Img variant="top" src="/images/travel.jpg" />
+        <Card.Img
+          variant="top"
+          src="../Data-Analyst-Portfolio/images/travel.jpg"
+        />
         <Card.Body>
           <Card.Title>Travel Expense Tracker</Card.Title>
           <Card.Text>
@@ -39,7 +45,7 @@ export default function Portfolio() {
             <div>This project was created using MySQL and Python.</div>
           </Card.Text>
           <Link to="/Travel-Expense-Tracker">
-          <Button variant="light">Bon voyage!</Button>
+            <Button variant="light">Bon voyage!</Button>
           </Link>
         </Card.Body>
       </Card>
