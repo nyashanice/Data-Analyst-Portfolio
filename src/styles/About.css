@@ -12,3 +12,9 @@
 .span-bg {
     background-color: pink;
 }
+
+@media screen and (max-width: 767px) {
+    .space {
+        margin: 1rem;
+    }
+}

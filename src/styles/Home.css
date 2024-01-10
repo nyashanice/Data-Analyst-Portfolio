@@ -24,51 +24,26 @@
     font-size: 20px;
 }
 
-.home-nav-list {
-    list-style: none;
-    font-family: 'Arvo', serif;
+.home-row {
+    display: flex;
+    flex-wrap: nowrap;
 }
 
-.home-list-item {
-    text-decoration: none;
-    color: black;
-}
-
-.home-list-item:hover {
-    color: grey;
-    font-size: 20px;
-}
-
-.home-icon {
-    width: 40px;
-    height: 40px;
-}
-
-@media screen and (min-width: 768px) {
-    .home-cols {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-    }
-
-    .home-right {
-        width: 50%;
-    }
-
+@media screen and (max-width: 767px) {
     .home-name {
-        font-size: 120px;
+        font-size: 50px !important;
     }
-
-    .home-left {
-        margin-left: 20px;
+    .home-img {
+        width: 90%;
     }
-
-    .home-nav-list {
-        font-size: 25px;
+    .home-title {
+        font-size: 20px;
     }
-
-    .home-icon {
-        width: 50px;
-        height: 50px;
+    .home-txt {
+        font-size: 15px;
+    }
+    .home-row {
+        flex-wrap: wrap !important;
+        justify-content: center;
     }
 }
