@@ -31,10 +31,15 @@ export default function Stats() {
         <div className="mt-4 mb-4">
           <h4>SUMMARY</h4>
           <div>
-            The data and information shown gives NBA fans the chance to decide
-            on a favorite NBA team and/or player for future seasons. With a
-            combination of charts, graphs, and values, there is sufficient data
-            to get an overview of team performance and weak/strong points.
+            Explore the dynamic world of the NBA Eastern Conference with our
+            comprehensive analysis of the 2022-23 season. Delve into a treasure
+            trove of data, presented through captivating charts, insightful
+            graphs, and key performance indicators. Whether you're a seasoned
+            NBA enthusiast or a new fan, this project offers a compelling
+            narrative to help you discover your favorite teams and players for
+            upcoming seasons. Uncover the strengths and weaknesses of each team,
+            empowering you to make informed choices as you embark on an exciting
+            journey through the realm of professional basketball.
           </div>
         </div>
         <div className="mb-4">

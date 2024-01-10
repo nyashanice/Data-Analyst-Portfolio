@@ -20,36 +20,77 @@ export default function Travel() {
         <div className="mt-4 mb-4">
           <h4>SUMMARY</h4>
           <div>
-            The data and information shown gives NBA fans the chance to decide
-            on a favorite NBA team and/or player for future seasons. With a
-            combination of charts, graphs, and values, there is sufficient data
-            to get an overview of team performance and weak/strong points.
+            The Travel Expense Tracker is a Python-based application designed to
+            help users manage and keep track of their travel expenses. Whether
+            you're a frequent traveler, a business professional, or an
+            adventurer exploring new places, this tool provides a convenient way
+            to organize your travel-related spending.
           </div>
         </div>
         <div className="mb-4">
           <h4>SKILLS SHOWN/DEVELOPED</h4>
           <div>
-            To create this project, I showcased multiple Google Sheets skills. I
-            used a <span className="highlight p-1">pivot table</span> to narrow
-            down the top 10 scorers during the season which are players that
-            averaged at least 25 and above per game. I used the{" "}
-            <span className="highlight p-1">SUMIFS</span> function to gather the
-            total turnovers, steals, blocks, and points per team. I used{" "}
-            <span className="highlight p-1">column charts</span> to showcase the
-            data visually. And lastly, I used{" "}
-            <span className="highlight p-1">VLOOKUP</span> to allow viewers to
-            compare the statistics for two different teams and see a performance
-            analysis.
+            <ol>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">Database Management:</span>{" "}
+                Implemented a robust MySQL database schema to efficiently store
+                and manage travel and expense data, demonstrating a deep
+                understanding of database design principles.
+              </li>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">
+                  Backend Development with Python:
+                </span>{" "}
+                Engineered the backend of the application using Python, creating
+                robust functionalities to handle data storage, retrieval, and
+                manipulation.
+              </li>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">
+                  Command-Line Interface (CLI) Development:
+                </span>{" "}
+                Built a user-friendly CLI using Inquirer.js, demonstrating the
+                ability to create effective command-line interfaces for
+                streamlined user interactions.
+              </li>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">
+                  Data Analysis and Visualization:
+                </span>{" "}
+                Utilized data analysis skills to extract meaningful insights
+                from the dataset, ensuring that the application not only tracks
+                expenses but also provides valuable information to users.
+              </li>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">
+                  Portfolio-Driven Development:
+                </span>{" "}
+                Aligned the project with personal and professional goals,
+                incorporating features that contribute to a compelling portfolio
+                for potential clients and employers.
+              </li>
+              <li className="mb-3 mt-3">
+                <span className="highlight p-1">Problem Solving:</span>{" "}
+                Addressed challenges in real-time, employing creative
+                problem-solving techniques to overcome obstacles encountered
+                during the development process.
+              </li>
+            </ol>
           </div>
         </div>
         <div>
           <h4>USAGE</h4>
           <div>
-            To view the raw data as well as access the comparative performance
-            analysis, use the "Dataset" link above. This link contains various
-            tabs that show different charts and team or individual data. To view
-            the presentation with presenter notes that describe my findings, use
-            the "Presentation with presenter notes" link above.
+            To view my code, use the "Github" link above. To view the demo
+            video, click{" "}
+            <a
+              href="https://drive.google.com/file/d/1Vk6SnVx4yv__LcuySUTdFmSDWqbnH6_X/view"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              here
+            </a>
+            .
           </div>
         </div>
       </div>
