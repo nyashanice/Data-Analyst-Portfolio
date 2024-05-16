@@ -8,10 +8,11 @@ export default function About() {
       <div className="space">
         <div className="p-2">
           Hey there! I'm Nya, an Atlanta, GA native who's always had a love for
-          numbers and science. I have a solid foundation in biology and a
-          comprehensive Full Stack Web Development certificate. My journey has
-          been a fusion of scientific exploration and coding expertise, making
-          me a dynamic candidate for data analyst roles.
+          numbers and science. I have a solid foundation in biology, a
+          comprehensive Full Stack Web Development certificate, and Data Analyst
+          experience. My journey has been a fusion of scientific exploration and
+          coding expertise, making me a dynamic candidate for data analyst
+          roles.
         </div>
         <div className="p-2">
           Armed with a <span className="span-bg">B.S. in Biology</span> from
